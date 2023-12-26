@@ -72,9 +72,9 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        Hi! I'm Abhay Sahani, Passionate and versetile Full Stack Developer. Pursuing B.tech CSE(ml & ai) from Lovely Professional University.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I'm interested in the whole frontend as well as backend development which also integrated with Machine Learning Models. Apart from this I also like to enjoy parties.
 <br/> <br/>
 I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
         </Main> 
